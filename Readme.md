@@ -8,20 +8,23 @@ Python 3.x
 **tkinter** for the file dialog
 
 You can install openpyxl and tkinter using pip:
-bash
 
     pip install openpyxl
   or
+
     pip3 install openpyxl
 
     pip install tkinter
   or
+  
     pip3 install tkinter
 
 Run the Python script:
-bash
+
+
     python convertor.py
   or
+  
     python3 convertor.py
     
 A file dialog will appear, asking you to select the JSON file you wish to convert.
